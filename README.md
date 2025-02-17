@@ -54,12 +54,12 @@ Random Forest | 93.0% ✅ (Best Model)
 or, if using Jupyter Notebook: <br>
 `!gradio app.py`. 
 
-The Gradio interface will launch in your browser, allowing you to predict house prices dynamically. 
+The Gradio interface will launch in your browser, allowing you to predict house prices dynamically.<br>
 
-###🌟 Future Enhancements
-🔹 Improve accuracy with advanced ensemble models 🏆.
-🔹 Integrate real-time market trends 📈.
-🔹 Deploy as a full-fledged web application 🌐.
+### 🌟 Future Enhancements<br>
+🔹 Improve accuracy with advanced ensemble models 🏆.<br>
+🔹 Integrate real-time market trends 📈.<br>
+🔹 Deploy as a full-fledged web application 🌐.<br>
 
 ### 📜 License
 This project is open-source and free to use under the MIT License.
